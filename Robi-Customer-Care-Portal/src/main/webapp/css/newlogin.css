@@ -1,0 +1,179 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  width:100%
+}
+
+#login .container #login-row #login-column #login-box {
+  margin-top: 70px;
+  margin-left: 0px;
+  max-width: 650px;
+  height: 100%;
+  height: 320px;
+  border: 0px solid #d3d7cf;
+  background-color: #d3d7cf;
+  
+   
+}
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+  margin-top: -85px;
+}
+.btn-primary,
+.btn-primary:active,
+.btn-primary:visited {
+  background-color: #f92d1f!important;
+}
+.short { max-width: 450px;
+max-height:20%;
+margin-top:6%;
+margin-left:5% }
+
+
+
+
+
+
+
+
+
+
+button:hover {
+	color:#fff;
+	background-color:#e43b3b;
+}
+.navbar-header h1.navbar-brand {
+  width: 100%;
+  margin-top: 20px;
+
+  color: #f92d1f;
+  font-size: 36px;
+ 
+  
+
+}
+
+img.navbar-brand {
+   
+   margin-top: 0px;
+   margin-left: 20px;
+  
+}
+img.navbar-brands {
+   
+   margin-top: 10px;
+   margin-left:0%;
+   
+} 
+img.navbar-brandss {
+   
+   margin-top: 20px;
+   margin-left:00px;
+   margin-bottom:20px;
+   
+} 
+.borderblock{
+	 width: 620px;
+  padding: 25px;
+  border: 3px solid gray;
+  margin: 0;
+	
+}
+
+
+
+
+.btn-primary:hover {
+  background-color: #f92d1f!important;
+  transition: all 1s ease;
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+}
+
+
+    HTML CSS 
+
+    Result 
+
+EDIT ON
+
+/**************************
+  DEFAULT BOOTSTRAP STYLES
+**************************/
+
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size:  14px;
+  font-weight: Bold;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  padding: 10px 16px;
+}
+  
+.btn-lg {
+  font-size: 18px;
+  line-height: 0;
+  border-radius: 0px;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #f92d1f;
+  border-color: #f92d1f;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+  color: #fff;
+  background-color: #f92d1f;
+  border-color: #f92d1f;
+}
+
+
+/***********************
+  CUSTON BTN VALUES
+************************/
+
+.btn {
+    padding: 14px 24px;
+    border: 0 none;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    outline: 0 none;
+}
+
+.btn-primary {
+    background: #f92d1f;
+    color: #ffffff;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #f92d1f;
+}
+.btn-primary:active, .btn-primary.active {
+    background: #f92d1f;
+    box-shadow: none;
+}
+
